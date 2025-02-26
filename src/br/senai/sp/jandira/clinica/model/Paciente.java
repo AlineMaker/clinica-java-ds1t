@@ -15,7 +15,7 @@ public class Paciente {
 		if(altura > 0) {
 			this.altura = altura;
 		}else {
-			System.out.println("Altura do(a) paciente " + nome + " está incorreto");
+			 System.out.println("Altura do(a) paciente " + nome + " está incorreto");
 			
 		}
 		

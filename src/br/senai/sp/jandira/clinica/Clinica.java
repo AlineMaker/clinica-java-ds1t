@@ -6,7 +6,7 @@ import br.senai.sp.jandira.clinica.model.Paciente;
 
 public class Clinica {
 
-	public static void main(String[] args) {
+	 public static void main(String[] args) {
 		
 		Paciente p1 = new Paciente();
 		p1.nome = "Ana Maria";
