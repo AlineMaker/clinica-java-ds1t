@@ -15,6 +15,7 @@ public class Clinica {
 		p1.telefone = "(11)98888-8888";
 		p1.dataNascimento = LocalDate.of(2003, 2, 28);
 		p1.estaInternado = true;
+		
 				
 		
 		
@@ -23,8 +24,8 @@ public class Clinica {
 		
 		Paciente p2 = new Paciente();
 		p2.nome = "Aline Alves de Souza";
-		p2.setAltura(1.78);
-		p2.setPeso(41.0);
+		p2.setAltura(1.50);
+		p2.setPeso(45.0);
 		p2.telefone = "(11)97148-2863";
 		p2.dataNascimento = LocalDate.of(1995, 12, 18);
 		p2.estaInternado = false;
